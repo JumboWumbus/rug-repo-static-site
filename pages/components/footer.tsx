@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export const Footer = () => {
+export default function Footer(){
     return (
       <div className="relative mt-16 bg-coolGray-800">
         <svg
