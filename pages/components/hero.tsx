@@ -9,8 +9,8 @@ export default function HeroSection (){
 		</h1>
 		<p className="px-8 mt-14 mb-12 text-xl">{`Us too, that's why we decided to create a place to let others talk about the validity of projects.`}</p>
 		<div className="flex flex-wrap justify-center">
-			<button className="px-8 py-3 m-2 text-lg font-semibold rounded dark:bg-violet-400 dark:text-coolGray-900">Go to forum</button>
-			<button className="px-8 py-3 m-2 text-lg border rounded dark:text-coolGray-50 dark:border-coolGray-700">Learn our story</button>
+			<button className="px-8 py-3 m-2 text-lg font-semibold rounded dark:bg-violet-400 dark:text-coolGray-900 hover:bg-violet-500 duration-300"><a href="https://forum.rugrepo.com">Go to forum</a></button>
+			<button className="px-8 py-3 m-2 text-lg border rounded dark:text-coolGray-50 dark:border-coolGray-700 hover:bg-coolGray-900 duration-300">Learn our story</button>
 		</div>
 	</div>
 </section>

@@ -19,7 +19,7 @@ export default function NavBar(){
         <div className="container flex justify-between h-16 mx-auto md:justify-center md:space-x-8">
             <ul className="items-stretch hidden space-x-3 md:flex">
                 <li className="flex">
-                    <a rel="noopener noreferrer" href="#" className="flex items-center px-4 -mb-1 border-b-2  dark:border-transparent hover:dark:text-violet-400 hover:dark:border-violet-400 duration-300">Forum</a>
+                    <a rel="noopener noreferrer" href="https://forum.rugrepo.com" className="flex items-center px-4 -mb-1 border-b-2  dark:border-transparent hover:dark:text-violet-400 hover:dark:border-violet-400 duration-300">Forum</a>
                 </li>
                 <li className="flex">
                     <a rel="noopener noreferrer" href="#" className="flex items-center px-4 -mb-1 border-b-2 dark:border-transparent hover:dark:text-violet-400 hover:dark:border-violet-400 duration-300">About</a>
@@ -101,7 +101,7 @@ export default function NavBar(){
 
             <ul className="justify-evenly flex">
                 <li className="flex">
-                    <a rel="noopener noreferrer" href="#" className="flex items-center px-4 -mb-1 border-b-2 dark:border-transparent hover:dark:text-violet-400 hover:dark:border-violet-400 duration-300">Forum</a>
+                    <a rel="noopener noreferrer" href="https://forum.rugrepo.com" className="flex items-center px-4 -mb-1 border-b-2 dark:border-transparent hover:dark:text-violet-400 hover:dark:border-violet-400 duration-300">Forum</a>
                 </li>
                 <li className="flex">
                     <a rel="noopener noreferrer" href="#" className="flex items-center px-4 -mb-1 border-b-2 dark:border-transparent hover:dark:text-violet-400 hover:dark:border-violet-400 duration-300">About</a>
