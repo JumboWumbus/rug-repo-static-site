@@ -2,11 +2,13 @@ import type { NextPage } from 'next'
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.scss'
-import { Footer } from './components/footer'
+import Feature from './components/feature'
+import Footer from './components/footer'
+
 import HeroSection from './components/hero'
 
 import NavBar from './components/navbar'
-import { Feature } from './components/feature'
+
 
 const Home: NextPage = () => {
   return (
