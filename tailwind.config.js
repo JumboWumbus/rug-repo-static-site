@@ -35,27 +35,8 @@ module.exports = {
 			gray: colors.gray,
 			blueGray: colors.blueGray,
 			coolGray: colors.coolGray,
-
-
-			"offBlack": {
-				DEFAULT: '#303030',
-				'50': '#535353',
-				'100': '#4F4F4F',
-				'200': '#474747',
-				'300': '#404040',
-				'400': '#383838',
-				'500': '#303030',
-				'600': '#292929',
-				'700': '#212121',
-				'800': '#1A1A1A',
-				'900': '#121212'
-			  },
 		},
-    extend: {
-		fontFamily: {
-			
-		},
-	},
+    extend: {},
   },
   plugins: [
     require("@tailwindcss/typography")
